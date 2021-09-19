@@ -1,0 +1,71 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+p {
+	color: navy;
+}
+.paragraph {
+	color: gold;
+}
+.main-text {
+	color: green;
+}
+
+h2 {
+	color: red;
+}
+
+.content {
+	color: pink;
+}
+.text {
+	color: sienna;
+}
+span {
+	color: violet;
+}
+.text-paragraph {
+	color: purple;
+}
+span.text {
+	color: navy;
+}
+.text-content {
+	color: orchid;
+}
+div p {
+	color: cornflowerblue;
+}
+.content .content-item {
+	color: cyan;
+}
+footer {
+	color: rosybrown;
+}
